@@ -1,0 +1,18 @@
+@import "~xp.css/dist/XP.css";
+.window{
+    margin: 0 auto;
+}
+canvas {
+    background-color: white;
+}
+.colors-panel{
+    width: 116px;
+    height: 60px;
+}
+.color {
+    display: inline-block;
+    margin-right: 5px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
